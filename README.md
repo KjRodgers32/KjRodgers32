@@ -20,13 +20,17 @@ I also like to pull data that I find interesting into a database and display it 
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
+    </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>React
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
