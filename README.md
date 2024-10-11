@@ -2,7 +2,7 @@
 
 # A Little About Me:
 
-Hi all! 👋 My name is Kevin and I currently work as a Data Analyst. I enjoy programming and want to transition into Data Engineering or Back-End Engineering. I specialize in automating tasks and developing applications in Python.
+Hi all! 👋 My name is Kevin and I currently work as a Data Analyst. I enjoy programming and want to transition into Back-End Engineering. I specialize in automating tasks and developing applications in Python.
 I also like to pull data that I find interesting into a database and display it in either some web app via an API or just a data visualization using a BI tool.
 
 # Current "Big" Project
