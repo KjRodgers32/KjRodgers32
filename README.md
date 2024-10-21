@@ -2,8 +2,8 @@
 
 # A Little About Me:
 
-Hi all! 👋 My name is Kevin and I currently work as a Data Analyst. I enjoy programming and want to transition into Back-End Engineering. I specialize in automating tasks and developing applications in Python.
-I also like to pull data that I find interesting into a database and display it in either some web app via an API or just a data visualization using a BI tool.
+Hi all! 👋 My name is Kevin and I currently work as a Data Analyst. I enjoy programming and want to transition into Back-End Engineering. I specialize in automating tasks and developing applications in Python, but I've really taken a liking to GO!
+I also like to pull interesting data into a database and display it in either a web app via an API or a data visualization using a BI tool.
 
 # Current "Big" Project
 <a href="https://github.com/KjRodgers32/cot-data-report">A React Dashboard Displaying the Commitments of Traders Data</a><br>
